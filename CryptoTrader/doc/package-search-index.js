@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cryptoTrader.abs"},{"l":"cryptoTrader.analysis"},{"l":"cryptoTrader.facade"},{"l":"cryptoTrader.gui"},{"l":"cryptoTrader.histogram"},{"l":"cryptoTrader.login"},{"l":"cryptoTrader.manager"},{"l":"cryptoTrader.strategy"},{"l":"cryptoTrader.UIObserver"},{"l":"cryptoTrader.utils"}];updateSearchResults();

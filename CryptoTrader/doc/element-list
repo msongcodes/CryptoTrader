@@ -1,0 +1,11 @@
+unnamed package
+cryptoTrader.abs
+cryptoTrader.analysis
+cryptoTrader.facade
+cryptoTrader.gui
+cryptoTrader.histogram
+cryptoTrader.login
+cryptoTrader.manager
+cryptoTrader.strategy
+cryptoTrader.UIObserver
+cryptoTrader.utils
